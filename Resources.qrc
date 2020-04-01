@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/shaders">
+        <file>vertexShaderAxes.vs</file>
+        <file>fragmentShaderAxes.fs</file>
+        <file>vertexShaderGamut2D.vs</file>
+        <file>fragmentShaderGamut.fs</file>
+        <file>vertexShaderGamut3D.vs</file>
+    </qresource>
+</RCC>
